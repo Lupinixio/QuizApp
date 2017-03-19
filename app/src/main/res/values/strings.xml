@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    //First question
+    <string name="first_question">What is the highest mountain on Earth?</string>
+    <string name="first_a">Everest</string>
+    <string name="first_b">K2</string>
+    <string name="first_c">Kilimangiaro</string>
+    <string name="first_d">Columbia</string>
+
+    //Second question
+    <string name="second_question">What is the longest river on Earth?</string>
+    <string name="second_a">Mississipi</string>
+    <string name="second_b">Mekong</string>
+    <string name="second_c">Amazon</string>
+    <string name="second_d">Niger</string>
+
+    //Third question
+    <string name="third_question">What is the biggest continent on Earth? </string>
+    <string name="third_a">Europe</string>
+    <string name="third_b">Asia</string>
+    <string name="third_c">Africa</string>
+    <string name="third_d">America</string>
+
+    //Fourth question
+    <string name="fourth_question">Which is the most populated country?</string>
+    <string name="fourth_a">Canada</string>
+    <string name="fourth_b">Russia</string>
+    <string name="fourth_c">China</string>
+    <string name="fourth_d">USA</string>
+
+    //Fifth question
+    <string name="fifth_question">What is the largest ocean?</string>
+
+
+    //Sixth question
+    <string name="sixth_question">Which is the biggest city?</string>
+    <string name="sixth_a">Shanghai</string>
+    <string name="sixth_b">New York</string>
+    <string name="sixth_c">Istanbul</string>
+    <string name="sixth_d">Moscow</string>
+
+
+    //Seventh question
+    <string name="seventh_question">Which is the biggest city?</string>
+    <string name="seventh_a">Shanghai</string>
+    <string name="seventh_b">New York</string>
+    <string name="seventh_c">Istanbul</string>
+    <string name="seventh_d">Moscow</string>
+
+
+</resources>
